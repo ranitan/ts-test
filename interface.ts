@@ -31,7 +31,7 @@ class Accounts implements ISavingsaccount, Icurrentaccount {
         }
     }
 }
-let c:Icurrentaccount=new Accounts(1,"yamini");
-c.balance(25000);
-let s:ISavingsaccount=new Accounts(2,"meena");
-s.balance(20000);
+let c:Icurrentaccount=new Accounts(1,"ranita");
+c.balance(20000);
+let s:ISavingsaccount=new Accounts(2,"naga");
+s.balance(15000);

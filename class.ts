@@ -41,5 +41,5 @@ class Loan extends Customer{
 
         }
 }
-let y= new Loan("yamini",20,9944050247,"vsk nagar",101,"personal loan",100000,20,0.4)
+let y= new Loan("ranita",21,9025457758,"bkpudur",136,"personal loan",200000,10,5)
 y.display();

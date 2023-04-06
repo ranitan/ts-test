@@ -16,7 +16,7 @@ var Accounts = /** @class */ (function () {
     };
     return Accounts;
 }());
-var c = new Accounts(1, "yamini");
-c.balance(25000);
-var s = new Accounts(2, "meena");
-s.balance(20000);
+var c = new Accounts(1, "ranita");
+c.balance(20000);
+var s = new Accounts(2, "naga");
+s.balance(15000);

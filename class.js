@@ -47,5 +47,5 @@ var Loan = /** @class */ (function (_super) {
     };
     return Loan;
 }(Customer));
-var y = new Loan("yamini", 20, 9944050247, "vsk nagar", 101, "personal loan", 100000, 20, 0.4);
+var y = new Loan("ranita", 21, 9025457758, "bkpudur", 136, "personal loan", 200000, 10, 5);
 y.display();
